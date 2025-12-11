@@ -1,0 +1,21 @@
+{
+  "name": "curso-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^16.0.8",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "25.0.0",
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  }
+}
